@@ -34,6 +34,23 @@ python app.py
 
 Edit the `TOPIC` variable at the top of `app.py` to switch between topics (e.g. `"ccp"`, `"roe_vs_wade"`, `"tariffs"`).
 
+## Publish to GitHub
+
+The repo is initialized on `main` with an initial commit. To create a **public** remote and push (one-time [GitHub CLI](https://cli.github.com/) login):
+
+```bash
+gh auth login
+cd /path/to/Capturing
+gh repo create capturing --public --source=. --remote=origin --push
+```
+
+Use another repo name instead of `capturing` if you prefer. Alternatively, create an empty public repository in the GitHub UI, then:
+
+```bash
+git remote add origin https://github.com/YOUR_USER/YOUR_REPO.git
+git push -u origin main
+```
+
 ## License
 
 This repository is provided as-is for research and educational use. Add a license file if you need explicit terms.
