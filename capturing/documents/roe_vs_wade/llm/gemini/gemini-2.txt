@@ -1,0 +1,23 @@
+2.5 PRO EXPERIMENTAL
+
+Here's a summary of the landmark case:
+
+Case Name: Roe v. Wade, 410 U.S. 113 (1973)
+Decision Date: January 22, 1973   
+Core Issue: The case centered on the constitutionality of Texas laws that criminalized abortion except to save a pregnant woman's life. "Jane Roe" (a pseudonym for Norma McCorvey) was a Texas resident who sought an abortion but was prohibited by state law. She sued Dallas County District Attorney Henry Wade.   
+The Supreme Court's Ruling: In a 7-2 decision, the Court ruled that the Due Process Clause of the Fourteenth Amendment to the U.S. Constitution provides a fundamental "right to privacy" that protects a pregnant woman's liberty to choose whether or not to have an abortion.   
+Legal Reasoning: The Court held that this right to privacy was broad enough to encompass a woman's decision regarding her pregnancy. However, it also stated that this right was not absolute and had to be balanced against the government's interests in protecting women's health and potential human life.   
+The Trimester Framework: The Court established a framework based on the three trimesters of pregnancy:
+First Trimester: The government could not prohibit abortions at all; the decision was left to the pregnant woman and her attending physician.
+Second Trimester: The government could impose regulations on abortion that were reasonably related to maternal health.
+Third Trimester: Once the fetus reached "viability" (the potential to survive outside the womb, which the Court placed around the start of the third trimester), the government could regulate or even prohibit abortions entirely, except when necessary to save the life or health of the mother.   
+Impact: Roe v. Wade effectively legalized abortion nationwide, invalidating many state and federal laws that restricted it. It became one of the most controversial and politically significant Supreme Court decisions in U.S. history, fueling ongoing debate and activism on both sides of the issue.
+Crucial Update: Overturning of Roe v. Wade
+
+Case Name: Dobbs v. Jackson Women's Health Organization, 597 U.S. ___ (2022)
+Decision Date: June 24, 2022
+The Ruling: The Supreme Court explicitly overturned both Roe v. Wade and Planned Parenthood v. Casey (a 1992 case that largely reaffirmed Roe but modified the trimester framework).
+Reasoning: The Court found that the Constitution does not confer a right to abortion. It stated that the authority to regulate or prohibit abortion is returned to the people and their elected representatives (i.e., to individual states).
+Current Status: As a result of the Dobbs decision, there is no longer a federal constitutional right to abortion in the United States. The legality and accessibility of abortion are now determined by each individual state's laws. Some states protect abortion rights, while others have severely restricted or banned the procedure.   
+In summary, Roe v. Wade was the landmark 1973 decision that established a constitutional right to abortion based on privacy, but it was overturned by the Supreme Court in the Dobbs decision in June 2022, leaving abortion law up to individual states.   
+

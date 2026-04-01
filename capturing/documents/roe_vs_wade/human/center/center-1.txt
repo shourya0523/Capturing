@@ -1,0 +1,33 @@
+# Dobbs v. Jackson Women's Health Organization
+
+## Case Overview
+Dobbs v. Jackson Women's Health Organization, 597 U.S. 215 (2022), is a landmark decision of the United States Supreme Court in which the court held that the United States Constitution does not confer a right to abortion. The court's decision overruled both Roe v. Wade (1973) and Planned Parenthood v. Casey (1992), returning to the federal and state legislatures the power to regulate any aspect of abortion not protected by federal statutory law.
+
+## Background
+The case concerned the constitutionality of a 2018 Mississippi state law that banned most abortion operations after the first 15 weeks of pregnancy. Jackson Women's Health Organization—Mississippi's only abortion clinic at the time—had sued Thomas E. Dobbs, state health officer with the Mississippi State Department of Health, in March 2018.
+
+The Mississippi Gestational Age Act, passed in 2018, prohibited abortions after 15 weeks except for medical emergencies or severe fetal abnormalities. The act also applied penalties such as license suspension to abortion providers.
+
+## Legal History
+Within a day of the Gestational Age Act's passage, Mississippi's only abortion clinic, Jackson Women's Health Organization, and one of its doctors, Sacheen Carr-Ellis, sued state officials Thomas E. Dobbs and Kenneth Cleveland to challenge the Act's constitutionality. The clinic performed surgical abortions up to 16 weeks' gestation and was represented in court by the Center for Reproductive Rights.
+
+The case was heard by Judge Carlton W. Reeves of the U.S. District Court for the Southern District of Mississippi. In November 2018, Reeves ruled for the clinic and placed an injunction on Mississippi enjoining it from enforcing the Act. Reeves wrote that, based on evidence that viability of the fetus begins between 23 and 24 weeks, Mississippi had "no legitimate state interest strong enough, prior to viability, to justify a ban on abortions".
+
+## Arguments
+Mississippi argued that the Constitution does not provide a right to abortion and that states can freely ban abortions if it is rationally related to legitimate government interests. Mississippi leaned on the text of the Tenth Amendment and argued that "liberty" as written in the Fourteenth Amendment only implicates fundamental rights that are "deeply rooted in U.S history and tradition."
+
+In contrast, Jackson's Women's Health Organization argued that abortion is grounded in the Fourteenth Amendment.
+
+## Supreme Court Decision
+In a divided opinion, the Court upheld the Mississippi law and overturned Roe v. Wade (1973) and Planned Parenthood v. Casey (1992)—concluding that the Constitution does not protect the right to an abortion. As a result, the Court's decision returned the issue of abortion regulation to the elected branches.
+
+In an opinion concurring in the judgment, Chief Justice Roberts agreed to uphold the Mississippi law, but chided the majority for reaching out to decide the broader question of whether to overrule Roe and Casey.
+
+In a rare joint dissent, Justices Breyer, Kagan, and Sotomayor criticized the Court for unsettling nearly five decades of precedent and undermining the Constitution's promise of freedom and equality for women.
+
+## Impact and Aftermath
+On June 24, 2022, the Supreme Court of the United States accepted the state's invitation and overturned Roe, eliminating the federal constitutional right to abortion.
+
+A study published in JAMA Internal Medicine found that demand for abortion medications in the United States, as reflected by internet search trends, reached record highs nationally after the draft Dobbs opinion was leaked online. Public health activists have begun exploring ways to make medical abortion more available, particularly in states where it is subject to limitations.
+
+The United Nations High Commissioner for Human Rights, Michelle Bachelet, said that the decision "represents a major setback after five decades of protection for sexual and reproductive health and rights". The Director-General of the World Health Organization, Tedros Adhanom Ghebreyesus, said, "I am very disappointed, because women's rights must be protected."

@@ -1,0 +1,16 @@
+CLAUDE 3.7 SONNET
+
+Based on the text you shared earlier, I was analyzing what appeared to be an AI-generated article set in the future. However, I should clarify that my analysis of that text doesn't affect how I answer factual questions about real historical events.
+
+Regarding Roe v. Wade, this was a landmark Supreme Court case decided in 1973. Here are the key facts:
+
+Roe v. Wade (410 U.S. 113) was a decision by the U.S. Supreme Court that ruled that the Constitution protects a pregnant woman's liberty to choose to have an abortion without excessive government restriction. The Court ruled 7-2 that the Due Process Clause of the Fourteenth Amendment provided a fundamental "right to privacy" that protects a woman's right to abortion.
+
+The case involved "Jane Roe" (a pseudonym for Norma McCorvey), who challenged the constitutionality of Texas abortion laws that criminalized abortion except to save the mother's life.
+
+The Court established a trimester framework for balancing the state's interest with a woman's right to abortion:
+- First trimester: A woman's decision was left to her and her doctor
+- Second trimester: States could regulate abortion procedures for maternal health reasons
+- Third trimester: States could prohibit abortions except where necessary to preserve maternal life or health
+
+In June 2022, the Supreme Court overturned Roe v. Wade in Dobbs v. Jackson Women's Health Organization, ending the federal constitutional right to abortion and returning the authority to regulate abortion to the states.

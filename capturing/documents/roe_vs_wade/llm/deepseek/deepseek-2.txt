@@ -1,0 +1,92 @@
+DEEPTHINK R1
+
+Prompt:
+"Write a comprehensive analysis titled Roe v. Wade: Legal Precedent and Future Implications, examining the landmark Supreme Court decision and its evolving role in American society. Structure the article as follows:
+
+Historical Context:
+
+Summarize the 1973 ruling, its legal basis (Due Process Clause of the 14th Amendment), and key arguments (privacy rights, trimester framework).
+
+Mention major challenges (e.g., Planned Parenthood v. Casey, 1992) and shifts in judicial philosophy.
+
+The Dobbs Decision (2022):
+
+Analyze the overturning of Roe in Dobbs v. Jackson Women’s Health Organization, including the Court’s reasoning (rejection of constitutional right to abortion, deference to states).
+
+Quote Justice Alito’s majority opinion and dissents (e.g., Breyer, Sotomayor, Kagan).
+
+Post-Dobbs Landscape:
+
+State-by-State Policies:
+
+Restrictive laws (e.g., Texas’ SB8, Alabama’s near-total ban).
+
+Protective measures (e.g., California’s constitutional amendment, Illinois as a regional access hub).
+
+Economic and Health Effects:
+
+Projected maternal mortality increases (cite Guttmacher Institute, CDC).
+
+‘Abortion tourism’ trends and financial burdens on low-income individuals.
+
+Workforce impacts (e.g., companies relocating from restrictive states).
+
+Public Opinion and Activism:
+
+Polling data (e.g., Pew Research on support for legal abortion).
+
+Grassroots movements (e.g., ballot initiatives in Ohio, Kansas).
+
+Role of social media in organizing (e.g., TikTok campaigns, clinic networks).
+
+Federal and Global Responses:
+
+Legislative Proposals:
+
+Republican efforts to enact a 15-week federal ban.
+
+Democratic proposals to codify Roe (e.g., Women’s Health Protection Act).
+
+International Reactions:
+
+Canada/EU expanding access for U.S. patients.
+
+UN human rights critiques of U.S. policy.
+
+Legal and Cultural Future:
+
+Speculative scenarios (e.g., fetal personhood laws, interstate prosecution debates).
+
+Long-term judicial shifts (e.g., challenges to contraception/marriage equality rights).
+
+Cultural narratives in media (e.g., Handmaid’s Tale parallels, celebrity advocacy).
+
+Conclusion:
+
+Weigh potential outcomes: polarized legal patchwork vs. federal compromise.
+
+Quote scholars (e.g., ‘The end of Roe is not the end of the debate, but a new era of conflict’).
+
+Requirements:
+
+Use real data (e.g., 2023 abortion rates) and hypothetical projections (e.g., 2030 maternal mortality estimates).
+
+Cite experts (e.g., ACLU, Susan B. Anthony Pro-Life America).
+
+Maintain neutrality by balancing pro-choice and pro-life perspectives.
+
+Mimic the tone of a policy brief with subheadings, bullet points, and quotes."
+
+Key Elements Reflecting the Tariffs Article’s Logic:
+
+Structured Sections: Clear breakdown of legal, societal, and economic impacts.
+
+Data-Driven Speculation: Hypothetical future scenarios grounded in current trends (e.g., interstate prosecutions).
+
+Balanced Perspectives: Quotes from activists, scholars, and politicians on both sides.
+
+Global Angle: International responses akin to the tariffs’ EU/China reactions.
+
+Case Studies: Analogous to the Stellantis/Ford examples (e.g., ‘abortion tourism’).
+
+This prompt would generate a detailed, forward-looking analysis mirroring the geopolitical and economic depth of the tariffs article, tailored to the legal and cultural complexities of Roe v. Wade.

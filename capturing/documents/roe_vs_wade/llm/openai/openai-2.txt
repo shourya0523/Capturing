@@ -1,0 +1,37 @@
+O1 MODEL:
+
+Below is a concise, journalistic-style overview of **Roe v. Wade**—framed with headings, structure, and a neutral tone similar to the tariff-focused prompt you shared. While it’s obviously a different subject, the layout and style loosely follow the same format.
+
+---
+
+## Roe v. Wade: A Landmark Case in U.S. Legal History
+
+### Introduction and Background  
+**Roe v. Wade** is one of the most significant Supreme Court decisions in American history. Decided on January 22, 1973, the case centered on a Texas law that banned nearly all abortions. Under the pseudonym “Jane Roe,” Norma McCorvey challenged the statute, arguing that it violated her constitutional right to privacy. The Supreme Court’s 7-2 ruling in Roe’s favor effectively decriminalized abortion nationwide during the first trimester, making reproductive rights a federal legal standard.
+
+### The Core Legal Question  
+At the heart of **Roe v. Wade** was whether the Constitution protected a woman’s right to terminate a pregnancy. The legal debate revolved around the **Fourteenth Amendment**, specifically the concept of personal liberty within the Due Process Clause. Writing for the majority, Justice Harry Blackmun concluded that the constitutional right to privacy “is broad enough to encompass a woman’s decision whether or not to terminate her pregnancy,” thus striking down many existing state bans on abortion.
+
+### The Trimester Framework  
+One of the notable outcomes was the **“trimester framework,”** which balanced a pregnant individual’s rights against the government’s interests:
+1. **First Trimester**: The decision to have an abortion was left to the pregnant individual and their physician, with virtually no state intervention allowed.
+2. **Second Trimester**: States could regulate abortion only to protect the health of the pregnant individual (e.g., licensing requirements for clinics).
+3. **Third Trimester**: As the potential for “viability” grew, states could regulate or even prohibit abortion except when necessary to preserve the life or health of the pregnant individual.
+
+While later decisions (notably **Planned Parenthood v. Casey** in 1992) replaced this trimester framework with an “undue burden” standard, Roe’s core principle—that the Constitution protects a fundamental right to choose abortion—remained in place for decades.
+
+### Nationwide Reactions and Legal Precedents  
+- **Public Opinion**: From the time it was decided, Roe v. Wade sparked heated debate. Opponents viewed it as judicial overreach, while supporters argued it was a critical step for women’s rights and bodily autonomy.
+- **State-Level Challenges**: In the aftermath of Roe, numerous states sought ways to limit the scope of legal abortions—such as mandatory waiting periods, parental consent laws, and strict clinic regulations.
+- **Subsequent Cases**: **Planned Parenthood v. Casey (1992)**, **Whole Woman’s Health v. Hellerstedt (2016)**, and **Dobbs v. Jackson Women’s Health Organization (2022)** became significant follow-ups, each addressing questions about how far states could go in restricting abortion.
+
+### Broader Cultural and Political Impact  
+- **Women’s Rights Movement**: Roe v. Wade has been central to broader discussions on gender equality, access to healthcare, and privacy. Advocacy groups like the National Organization for Women (NOW) and the American Civil Liberties Union (ACLU) have cited Roe as a touchstone for reproductive rights.
+- **Religious and Moral Debates**: Faith-based organizations, including the National Right to Life Committee and the U.S. Conference of Catholic Bishops, long criticized the ruling, championing laws to protect what they view as the rights of the unborn.
+- **Political Litmus Test**: For decades, political candidates often aligned themselves pro-choice or pro-life, making Roe v. Wade a perennial campaign issue and a factor in Supreme Court appointments.
+
+### Evolution and Aftermath  
+While Roe v. Wade remained the law of the land for nearly half a century, it was effectively overturned on June 24, 2022, by the Supreme Court in **Dobbs v. Jackson Women’s Health Organization**. The Dobbs decision returned the authority to regulate abortion to individual states, resulting in a patchwork of varying abortion laws nationwide. Many states immediately enacted previously dormant “trigger laws” to ban or severely restrict abortion, while others moved to strengthen legal protections for reproductive rights.
+
+### Conclusion  
+**Roe v. Wade** fundamentally reshaped American legal, political, and cultural landscapes by affirming a constitutional right to abortion in the 1970s. Its legacy spanned decades of contentious debate, legislation, and court rulings, culminating in its being overturned by Dobbs in 2022. Despite its reversal, Roe’s impact endures as a central reference point in discussions about privacy, bodily autonomy, and state powers in regulating reproductive healthcare.

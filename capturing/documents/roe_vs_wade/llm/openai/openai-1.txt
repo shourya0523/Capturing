@@ -1,0 +1,50 @@
+O1 MODEL:
+
+Below is an overview of **Roe v. Wade**—one of the most significant U.S. Supreme Court rulings of the 20th century:
+
+---
+
+## Case Background
+
+- **Date and Parties**: Decided on January 22, 1973, **Roe v. Wade** involved “Jane Roe” (a pseudonym for Norma McCorvey), who challenged a Texas law that banned nearly all abortions. Henry Wade, the district attorney of Dallas County, defended the state’s anti-abortion law.
+
+- **Legal Question**: The primary question was whether a state law prohibiting abortion infringed upon a woman’s constitutional right to privacy.
+
+---
+
+## Supreme Court Ruling
+
+- **Majority Opinion**: In a 7–2 decision, the Supreme Court ruled that the Due Process Clause of the Fourteenth Amendment to the U.S. Constitution provides a “right to privacy” that is “broad enough to encompass a woman’s decision whether or not to terminate her pregnancy.”
+
+- **Trimester Framework**: The Court’s decision implemented a structure loosely tied to the progression of pregnancy:
+  1. **First Trimester**: The state could not regulate abortion beyond requiring that the procedure be performed by a licensed physician.
+  2. **Second Trimester**: States could impose regulations reasonably related to maternal health.
+  3. **Third Trimester (Viability)**: States could choose to regulate or ban abortions, except when necessary to preserve the life or health of the mother.
+
+- **Constitutional Basis**: Justice Harry Blackmun wrote that the Fourteenth Amendment’s concept of personal liberty encompasses decisions about pregnancy, though the Court also balanced this right against states’ interests in protecting fetal life and safeguarding maternal health.
+
+---
+
+## Historical Impact
+
+- **National Legalization**: Roe v. Wade effectively legalized abortion nationwide, overriding many state-level bans and restrictions.
+- **Subsequent Cases**: Over time, Roe was refined by cases like **Planned Parenthood v. Casey (1992)**, which replaced the trimester framework with a standard preventing states from placing an “undue burden” on the right to abortion before fetal viability.
+- **Political and Social Debate**: The decision ignited ongoing debates about reproductive rights, privacy, religious beliefs, and government regulation. It became a central topic in U.S. political discourse, shaping electoral politics, judicial appointments, and legislative agendas for decades.
+
+---
+
+## Post-Roe Developments
+
+- **Dobbs v. Jackson Women’s Health Organization (2022)**: The Supreme Court overturned Roe v. Wade, holding that the U.S. Constitution does not confer a right to abortion, and returning the power to regulate abortion to individual states. This marked a major shift in U.S. abortion law and policy.
+
+---
+
+### Key Takeaways
+
+1. **Landmark Status**: For nearly 50 years, Roe v. Wade was the legal foundation for abortion rights in the United States.
+2. **Constitutional Right to Privacy**: The Court’s interpretation of the Fourteenth Amendment played a critical role in establishing a right to privacy that extended to reproductive decisions.
+3. **Shifting Legal Landscape**: Although Roe shaped abortion policy for decades, it was ultimately overturned in 2022, dramatically altering the legal and political discussion about reproductive rights.
+
+---
+
+**In Short**: **Roe v. Wade** recognized a constitutional right to abortion under the Fourteenth Amendment, affecting how states could regulate the procedure. While it was central to U.S. abortion law for decades, it was overturned in 2022, changing the legal and policy landscape surrounding reproductive rights.

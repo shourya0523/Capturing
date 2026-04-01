@@ -1,0 +1,13 @@
+CLAUDE 3.7 SONNET
+
+Based on your request, I'll provide factual information about the Roe v. Wade case.
+Roe v. Wade was a landmark Supreme Court decision issued on January 22, 1973. The case centered on a Texas law that prohibited abortion except to save the mother's life. Jane Roe (a pseudonym for Norma McCorvey) challenged the constitutionality of this law.
+In a 7-2 decision, the Supreme Court ruled that the Due Process Clause of the Fourteenth Amendment to the U.S. Constitution provides a fundamental "right to privacy" that protects a pregnant woman's liberty to choose whether to have an abortion.
+The Court established a trimester framework for balancing a woman's right to abortion with the state's interest in potential life:
+
+During the first trimester, abortion decisions were left to the woman and her doctor
+During the second trimester, states could regulate abortion procedures in ways reasonably related to maternal health
+During the third trimester, states could regulate or prohibit abortion except where necessary to preserve the life or health of the mother
+
+Roe v. Wade was subsequently modified by Planned Parenthood v. Casey (1992), which replaced the trimester framework with an "undue burden" standard.
+On June 24, 2022, the Supreme Court overturned Roe v. Wade in Dobbs v. Jackson Women's Health Organization, ruling that the Constitution does not confer a right to abortion. This decision returned the authority to regulate abortion to the individual states.2 / 2RetryClaude can make mistakes. Please double-check responses. 3.7 Sonnet
